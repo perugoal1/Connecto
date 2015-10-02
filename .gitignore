@@ -1,0 +1,11 @@
+/node_modules/
+
+.project
+.settings/.jsdtscope
+.settings/com.eclipsesource.jshint.ui.prefs
+.sublime-project
+.settings/org.eclipse.wst.jsdt.core.prefs
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+.tern-project
+.jshintrc
+.settings/org.eclipse.wst.jsdt.ui.superType.container
